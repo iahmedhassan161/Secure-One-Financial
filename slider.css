@@ -1,0 +1,34 @@
+
+#review{
+	height: auto;
+	background-color: #eff6fc;
+	padding-bottom: 86px;
+}
+#review_row{
+	height: 100%;
+}
+#review_left img{
+	padding-top: 85px;
+	padding-left: 125px;
+}
+#review_right h1{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+	padding-top: 125px;
+}
+#review_right p{
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	letter-spacing: 0.5px;
+	padding-top: 18px;
+	line-height: 36px;
+	padding-right: 86px;
+	color: #5b5b61;
+}
+#review_right span{
+	font-size: 18px;
+	color: #042e5d;
+	font-family: 'Lato', sans-serif;
+	font-weight: 600;
+	letter-spacing: 0.5px;
+}
